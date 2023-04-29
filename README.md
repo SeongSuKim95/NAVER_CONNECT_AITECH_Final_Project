@@ -38,7 +38,7 @@
 </table>
 
 - 김기용_T4020: Cartoonize 모델 조사, 실험 결과 분석
-- 김성수_T4039: Object Tracking 모델 조사, Modeling, 알고리즘 개발
+- 김성수_T4039: Object Tracking 모델 조사, Modeling, 얼굴 매칭 알고리즘 개발
 - 김주엽_T4048: Model Serving
 - 이  구_T4145: Cartoonize 모델 조사, Modeling, 알고리즘 개발
 - 이태희_T4172: Object Tracking 모델 조사, Modeling, 코드 오류 분석 및 수정
